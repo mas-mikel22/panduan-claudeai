@@ -4,6 +4,21 @@
 
 Panduan lengkap untuk menginstall dan menggunakan Claude Code CLI untuk chat interface langsung di terminal VS Code.
 
+---
+
+## 💰 Metode Pembayaran
+
+Untuk dukungan dan konsultasi, Anda dapat memberikan donasi melalui:
+
+| Metode | Nomor |
+|--------|-------|
+| **ShopeePay** | `082 322 515 580` |
+| **OVO** | `082 322 515 580` |
+
+Terima kasih atas dukungan Anda!
+
+---
+
 ## 📑 Daftar Isi
 
 - [Apa itu Claude Code CLI?](#-apa-itu-claude-code-cli)
