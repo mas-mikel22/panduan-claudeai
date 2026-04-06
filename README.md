@@ -110,7 +110,7 @@ Ganti `your_api_key` dengan API key Anda yang sebenarnya, lalu jalankan:
 
 ```cmd
 setx ANTHROPIC_AUTH_TOKEN your_api_key
-setx ANTHROPIC_BASE_URL https://api.z.ai/api/anthropic
+setx ANTHROPIC_BASE_URL https://api.minimax.io/anthropic
 ```
 
 **Catatan Penting:**
@@ -144,7 +144,7 @@ Copy-paste perintah ini **SEKALIGUS** ke PowerShell (ganti `your_api_key` dengan
 {
   "env": {
     "ANTHROPIC_AUTH_TOKEN": "your_api_key",
-    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+    "ANTHROPIC_BASE_URL": "https://api.minimax.io/anthropic",
     "API_TIMEOUT_MS": "3000000"
   }
 }
@@ -188,7 +188,7 @@ code "$env:USERPROFILE\.claude\settings.json"
 
 ```cmd
 setx ANTHROPIC_AUTH_TOKEN your_api_key
-setx ANTHROPIC_BASE_URL https://api.z.ai/api/anthropic
+setx ANTHROPIC_BASE_URL https://api.minimax.io/anthropic
 ```
 
 **Langkah selanjutnya:**
@@ -298,7 +298,7 @@ Script akan otomatis mengubah file `~/.claude/settings.json` dengan konfigurasi 
 {
   "env": {
     "ANTHROPIC_AUTH_TOKEN": "your_zai_api_key",
-    "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
+    "ANTHROPIC_BASE_URL": "https://api.minimax.io/anthropic",
     "API_TIMEOUT_MS": "3000000"
   }
 }
@@ -506,7 +506,7 @@ Jika masih mengalami masalah:
 
 1. Cek panduan di bagian [Panduan Instalasi](#-panduan-instalasi) di atas
 2. Pastikan API key Anda valid dan belum expired
-3. Pastikan BASE URL benar: `https://api.z.ai/api/anthropic`
+3. Pastikan BASE URL benar: `https://api.minimax.io/anthropic`
 4. Cek [`TROUBLESHOOTING.md`](TROUBLESHOOTING.md) untuk solusi lengkap
 5. Pastikan Node.js versi 18+ sudah terinstall
 
